@@ -1,5 +1,5 @@
 
-  @media  screen and (min-width: 420px) {
+  @media  screen and (min-width: 581px) {
     html body{
       background-color: whitesmoke;
       margin: 0;
@@ -24,7 +24,7 @@
 }
 
 
-@media screen and ( max-width: 421px) {
+@media screen and ( max-width: 580px) {
   html body{
     background-color: whitesmoke;
     margin: 0;
