@@ -10,11 +10,16 @@
       height: 100px;
       width: 100%;
       background-color: #f1c146;
-      padding-bottom: 10px;
+      padding-bottom: 5px;
+      padding-top: 10px;
       background-size: cover;
       justify-content: center;
     }
-
+    .header img{
+      width: 70%;
+      height: 80px;
+    justify-items: center;
+    }
 
 }
 
@@ -26,14 +31,18 @@
     padding: 0;
    }
     .header{
-    
+      border-top: red 2px solid;
       height: 50px;
       width: 100%;
       background-color: #f1c146;
+      padding-top: 2px;
       padding-bottom: 2px;
       background-size: cover;
       justify-content: center;
     }
-
+   .header img{
+     width: 100%;
+     height: 40px;
+   }
 
 }
