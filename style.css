@@ -6,7 +6,7 @@
       padding: 0;
      }
     .header{
- 
+      border-top: red 2px solid;
       height: 100px;
       width: 100%;
       background-color: #f1c146;
